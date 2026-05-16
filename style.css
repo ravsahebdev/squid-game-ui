@@ -35,7 +35,7 @@
         .bg-squid {
           position: absolute;
           right: -90px;
-          top: 50px;
+          top: 100px;
           font-family: 'Bebas Neue', sans-serif;
           font-size: 155px;
           writing-mode: vertical-rl;
@@ -229,7 +229,7 @@
         .social-bar {
           position: absolute;
           right: 8%;
-          top: 35%;
+          top: 40%;
           transform: translateY(-50%);
           z-index: 20;
           display: flex;
